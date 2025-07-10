@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+<<<<<<< HEAD
     <style name="Theme.AppBingo" parent="android:Theme.Material.Light.NoActionBar" />
+=======
+    <style name="Theme.MyBingoApp" parent="android:Theme.Material.Light.NoActionBar" />
+>>>>>>> f69058729fd528104ca833dd5bc48c63c3fbd06e
 </resources>

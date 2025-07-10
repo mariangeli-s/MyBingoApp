@@ -5,11 +5,19 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.appbingo"
     compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.appbingo"
+=======
+    namespace = "com.example.mybingoapp"
+    compileSdk = 35
+
+    defaultConfig {
+        applicationId = "com.example.mybingoapp"
+>>>>>>> f69058729fd528104ca833dd5bc48c63c3fbd06e
         minSdk = 24
         targetSdk = 35
         versionCode = 1
@@ -56,5 +64,8 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
+<<<<<<< HEAD
 
+=======
+>>>>>>> f69058729fd528104ca833dd5bc48c63c3fbd06e
 }

@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">AppBingo</string>
+=======
+    <string name="app_name">MyBingoApp</string>
+>>>>>>> f69058729fd528104ca833dd5bc48c63c3fbd06e
 </resources>
